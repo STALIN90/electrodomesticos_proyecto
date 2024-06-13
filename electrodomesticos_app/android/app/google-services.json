@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069196299913",
+    "project_id": "electrodomestico-3fff0",
+    "storage_bucket": "electrodomestico-3fff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069196299913:android:16a0352961ddcbcf608058",
+        "android_client_info": {
+          "package_name": "com.example.electrodomesticos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL64AnGnXP8YAWNPGv7GC7JNfz0SD7Kno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069196299913:android:f1f9b181498f1f77608058",
+        "android_client_info": {
+          "package_name": "electrodomesticos.app_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL64AnGnXP8YAWNPGv7GC7JNfz0SD7Kno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
